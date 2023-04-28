@@ -1,6 +1,6 @@
 # PROYECTOS DE ANALISIS Y VISUALIZACION DE DATOS EN POWER BI Y EXCEL
 
-En este repositorio hay 6 (seis) visualizaciones de datos. Distribuidas en 3 (tres) visualizaciones en Excel y 3 (tres), en Power Bi.
+En este repositorio hay 6 (seis) visualizaciones de datos. Distribuidas en 3 (tres) visualizaciones en Excel y 3 (tres), en Power Bi. Los tres archivos contienen visualizaciones similares realizadas en el programa Ecxel y la plataforma de Power Bi.
 
 ##  CONTENIDO DE LOS ARCHIVOS DE POWER BI Y EXCEL
 
