@@ -4,7 +4,7 @@ En este repositorio hay 6 (seis) visualizaciones de datos. Distribuidas en 3 (tr
 
 ##  CONTENIDO DE LOS ARCHIVOS DE POWER BI Y EXCEL
 
-Los archivos tienen tres tipos de datos, provistos en las tablas correspondientes y hacen referencia a:
+Los archivos tienen tres tipos de datos, provistos en las tablas incluidas en cada uno y hacen referencia a:
 
 ### Visualizaciones sobre PRODUCCION.
 
